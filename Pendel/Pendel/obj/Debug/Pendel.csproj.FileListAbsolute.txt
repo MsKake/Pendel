@@ -1,0 +1,8 @@
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\obj\Debug\Pendel.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\obj\Debug\Pendel.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\obj\Debug\Pendel.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\bin\Debug\Pendel.exe.config
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\bin\Debug\Pendel.exe
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\bin\Debug\Pendel.pdb
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\obj\Debug\Pendel.exe
+C:\Users\scott\OneDrive\Skrivebord\Kode\Pendel\Pendel\obj\Debug\Pendel.pdb
